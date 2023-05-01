@@ -1,0 +1,30 @@
+{
+  "name": "svg-logo",
+  "version": "1.0.0",
+  "description": "SVG Logo Maker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahnazAfreen9849/svg-logo.git"
+  },
+  "keywords": [
+    "Logo",
+    "maker"
+  ],
+  "author": "Shahnaz Afreen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShahnazAfreen9849/svg-logo/issues"
+  },
+  "homepage": "https://github.com/ShahnazAfreen9849/svg-logo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
