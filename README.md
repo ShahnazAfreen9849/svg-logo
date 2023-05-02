@@ -26,10 +26,10 @@ This will start the application and prompt you for input to generate a logo. Fol
 
 ## Sample Logos Created with the Application
 
-![alt Image of the application]
+![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/Shanzz.svg)
 
 
-![alt Image of the application]
+![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/Mariya.svg)
 
 
 ![alt Image of the application](
