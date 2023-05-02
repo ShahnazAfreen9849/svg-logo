@@ -26,13 +26,13 @@ This will start the application and prompt you for input to generate a logo. Fol
 
 ## Sample Logos Created with the Application
 
-![alt Image of the application](https://github.com/mmoghal/logo-maker/blob/main/assets/images/cir.png)
+![alt Image of the application]
 
 
-![alt Image of the application](https://github.com/mmoghal/logo-maker/blob/main/assets/images/sq.png)
+![alt Image of the application]
 
 
-![alt Image of the application](https://github.com/mmoghal/logo-maker/blob/main/assets/images/tri.png)
+![alt Image of the application](
 
 ## Running Tests
 
