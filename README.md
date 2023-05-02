@@ -33,7 +33,9 @@ https://drive.google.com/file/d/1YHk7RWOjwuJlJB7t6oI-Yo7xeXDo3C8d/view
 ![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Circle.png)
 
 
-![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Circle.png)
+![alt Image of the application](
+    https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Square.png
+)
 
 
 ![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Triangle.png)
