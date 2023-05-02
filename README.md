@@ -24,15 +24,19 @@ node index.js
 
 This will start the application and prompt you for input to generate a logo. Follow the prompts to enter your desired text, text color, background shape, background color, and filename for your logo. Once you have entered all the required information, the application will generate an SVG file with your logo.
 
+## Live Demonstration of Application Functionality
+
+https://drive.google.com/file/d/1YHk7RWOjwuJlJB7t6oI-Yo7xeXDo3C8d/view
+
 ## Sample Logos Created with the Application
 
-![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/Shanzz.svg)
+![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Circle.png)
 
 
-![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/Mariya.svg)
+![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Circle.png)
 
 
-![alt Image of the application](
+![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Triangle.png)
 
 ## Running Tests
 
@@ -41,6 +45,8 @@ To run the unit tests for this application, navigate to the root directory of th
 npm test -- --testPathPattern=Shapes.test.js
 
 This will run the test suite using Jest. The tests include unit tests for the Shape class, which is used to generate the background shapes for the logos.
+
+![alt Image of the application](https://github.com/ShahnazAfreen9849/svg-logo/blob/main/images/Test.png)
 
 ## Contributing
 
