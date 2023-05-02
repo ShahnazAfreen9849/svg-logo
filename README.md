@@ -24,12 +24,21 @@ node index.js
 
 This will start the application and prompt you for input to generate a logo. Follow the prompts to enter your desired text, text color, background shape, background color, and filename for your logo. Once you have entered all the required information, the application will generate an SVG file with your logo.
 
+## Sample Logos Created with the Application
+
+![alt Image of the application](https://github.com/mmoghal/logo-maker/blob/main/assets/images/cir.png)
+
+
+![alt Image of the application](https://github.com/mmoghal/logo-maker/blob/main/assets/images/sq.png)
+
+
+![alt Image of the application](https://github.com/mmoghal/logo-maker/blob/main/assets/images/tri.png)
 
 ## Running Tests
 
 To run the unit tests for this application, navigate to the root directory of the project in your terminal and run the following command:
 
-npm test -- --testPathPattern=Shape.test.js
+npm test -- --testPathPattern=Shapes.test.js
 
 This will run the test suite using Jest. The tests include unit tests for the Shape class, which is used to generate the background shapes for the logos.
 
